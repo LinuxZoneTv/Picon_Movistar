@@ -14,5 +14,10 @@ Porcentaje de picon creados: <progress value="35" max="100">35 %</progress>
 
 #Descarga paquetes ipk en varios tamaños:
 
+Proximamente
+
+220x132
+100x60
+
 
 
