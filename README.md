@@ -10,7 +10,7 @@ Hilo sobre peticiones, comentarios o novedades:
 
 https://openspa.info/threads/proyecto-picon-movistar.37776/
 
-Porcentaje de picon creados: <progress value="35" max="100">41 %</progress>
+Porcentaje de picon creados: <progress value="35" max="100">73 %</progress>
 
 #Descarga paquetes ipk en varios tamaños:
 
