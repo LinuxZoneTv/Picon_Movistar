@@ -10,14 +10,11 @@ Hilo sobre peticiones, comentarios o novedades:
 
 https://openspa.info/threads/proyecto-picon-movistar.37776/
 
-Porcentaje de picon creados: <progress value="35" max="100">91 %</progress>
+Porcentaje de picon creados: <progress value="35" max="100">100 %</progress>
 
-#Descarga paquetes ipk en varios tamaños:
+#Descarga picones en formato 220x132 y 440x264 en foro openspa:
 
-Proximamente
-
-220x132
-100x60
+https://openspa.info/threads/picon-transparente-v-original-movistar-30082016.38036/
 
 
 
