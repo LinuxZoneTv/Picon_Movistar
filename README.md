@@ -12,9 +12,14 @@ https://openspa.info/threads/proyecto-picon-movistar.37776/
 
 Porcentaje de picon creados: <progress value="35" max="100">100 %</progress>
 
-#Descarga picones en formato 220x132 y 440x264 en foro openspa:
+# SCRIPT PYTHON
+En caso querer usar script para actualizacion desde el receptor o ponerlo en cron para actualizacion automatica podeis usar el archivo:
 
-https://openspa.info/threads/picon-transparente-v-original-movistar-30082016.38036/
+download.py
+
+Para manual y descarga del archivo visitar:
+
+https://openspa.info/threads/picon-transparente-v-o-movistar-08102016.38036/
 
 
 
