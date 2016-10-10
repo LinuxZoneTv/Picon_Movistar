@@ -17,7 +17,11 @@ En caso querer usar script para actualizacion desde el receptor o ponerlo en cro
 
 download.py
 
-Para manual y descarga del archivo visitar:
+Y tambien disponible otra version download picon para ello usar:
+
+download2.py
+
+Para manual y descarga del archivos visitar:
 
 https://openspa.info/threads/picon-transparente-v-o-movistar-08102016.38036/
 
